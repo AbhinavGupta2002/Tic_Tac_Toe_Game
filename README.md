@@ -7,5 +7,3 @@ This self developed project, developed in Python, represents the Tic Tac Toe phy
 The python file consists of no documentation.
 
 This self developed program is under the MIT License.
-
-Developed by Abhinav Gupta.
