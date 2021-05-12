@@ -2,11 +2,11 @@ import getpass
 import sys
 import colorama
 from colorama import Fore, Style, Back
-#'tictactoe' is the password
+#'abhinav-gupta' is the password
 
 password = getpass.getpass(prompt = "Enter the password:")
 
-if password == 'tictactoe':
+if password == 'abhinav-gupta':
     print(Back.WHITE + Fore.GREEN + Style.BRIGHT + 'Password Accepted' + Style.RESET_ALL + "\n")
 else:
     print(Back.WHITE + Fore.RED + Style.BRIGHT + 'Incorrect Password' + Style.RESET_ALL + "\n")
